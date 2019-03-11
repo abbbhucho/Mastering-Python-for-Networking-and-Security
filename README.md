@@ -2,8 +2,6 @@
 
 <a href="https://www.packtpub.com/networking-and-servers/mastering-python-networking-and-security?utm_source=github&utm_medium=repository&utm_campaign=9781788992510 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788992510.png" alt="Mastering Python for Networking and Security" height="256px" align="right"></a>
 
-This is the code repository for [Mastering Python for Networking and Security](https://www.packtpub.com/networking-and-servers/mastering-python-networking-and-security?utm_source=github&utm_medium=repository&utm_campaign=9781788992510 ), published by Packt.
-
 **Leverage Python scripts and libraries to overcome networking and security issues
 **
 
@@ -19,11 +17,6 @@ Use network software for Python programming
 Perform server scripting and port scanning with Python 
 Identify vulnerabilities in web applications with Python 
 Use Python to extract metadata and forensics 
-
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788992512) today!
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
@@ -66,11 +59,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **José Manuel Ortega**
 José Manuel Ortega is a Software Engineer and he focuses on new technologies, open source, security and testing. His career target from the beginning has been to specialize in Python and security testing projects. In recent years he has developed interest in security development, especially in pen-testing with python. Currently he is working as a security tester engineer and his functions in the project are analysis and testing the security of applications both web and mobile environments.
-
-## Other books by the authors
-[Mastering Python for Networking and Security](https://www.packtpub.com/networking-and-servers/mastering-python-networking-and-security?utm_source=github&utm_medium=repository&utm_campaign=9781788992510 )
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-
-
